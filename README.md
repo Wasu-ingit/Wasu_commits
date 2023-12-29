@@ -22,4 +22,4 @@ Clone the repository.
 Ensure you have Flutter installed.
 Run flutter pub get to install dependencies.
 Run the app using flutter run.
-Feel free to contribute or report issues if any!
+
